@@ -1,5 +1,0 @@
-﻿  test.cpp
-C:\Users\0day\source\repos\process killer\process killer\test.cpp(20,12): warning C4101: 'hProcess': unreferenced local variable
-C:\Users\0day\source\repos\process killer\process killer\test.cpp(112,81): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
-C:\Users\0day\source\repos\process killer\process killer\test.cpp(112,81): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
-  process killer.vcxproj -> C:\Users\0day\source\repos\process killer\x64\Debug\process killer.exe
